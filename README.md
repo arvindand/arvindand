@@ -2,12 +2,12 @@
 
 ## Senior Software Engineer | Cloud-Native Architect | Backend Development
 
-With 8+ years of experience in the Spring ecosystem, transforming legacy systems into modern, scalable architectures. Currently leading cloud-native transformations at Rockwell Automation while exploring the evolving AI development landscape.
+With 8+ years of experience in backend development,transforming legacy systems into modern, scalable architectures. Currently leading cloud-native transformations at Rockwell Automation while exploring the evolving AI development landscape.
 
 *After years of focusing on private enterprise work, I'm now building my public GitHub presence and contributing to open source. Better late than never! 🚀*
 
 ### 🚀 What I Do
-- **Backend Architecture**: Designing scalable systems with Spring Boot, microservices, and event-driven patterns
+- **Backend development**: Designing scalable systems with Spring Boot, microservices, and event-driven patterns
 - **Cloud-Native Solutions**: Kubernetes orchestration, GitOps with Flux, custom operators
 - **AI Integration**: Building practical AI-powered developer tools with Spring AI and emerging protocols
 - **Legacy Modernization**: Transforming monolithic applications into distributed, cloud-ready systems
@@ -18,7 +18,7 @@ Languages:     Java (primary), JavaScript, C#, Go
 Frameworks:    Spring Boot, Spring Modulith, Angular
 Cloud & Ops:   Kubernetes, Azure, Jenkins, GitOps
 AI & ML:       Spring AI, OpenAI GPT, Vector Databases, RAG
-Messaging:     NATS, ActiveMQ, AsyncAPI
+Messaging:     NATS, ActiveMQ
 Databases:     PostgreSQL, SQL Server, Oracle, PGVector
 Testing:       JUnit 5, Mockito, Testcontainers, k6
 ```
@@ -29,7 +29,7 @@ Testing:       JUnit 5, Mockito, Testcontainers, k6
 - 🔧 **Developer Productivity**: Creating tools that enhance the development experience  
 - 🤖 **Exploring AI**: Experimenting with Spring AI and intelligent developer tooling
 
-### 🚀 Featured Projects
+### 🚀 Projects
 - **[Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp)** - MCP server for AI-powered Maven dependency management
 - **[Spring AI RAG Demo](https://github.com/arvindand/spring-ai-rag-demo)** - Learning project exploring document intelligence with Retrieval Augmented Generation
 
