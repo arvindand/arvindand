@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer | Cloud-Native Architect | Backend Development
 
-With 8+ years of experience in backend development,transforming legacy systems into modern, scalable architectures. Currently leading cloud-native transformations at Rockwell Automation while exploring the evolving AI development landscape.
+With 8+ years of experience in backend development, transforming legacy systems into modern, scalable architectures. Currently leading cloud-native transformations at Rockwell Automation while exploring the evolving AI development landscape.
 
 *After years of focusing on private enterprise work, I'm now building my public GitHub presence and contributing to open source. Better late than never! 🚀*
 
@@ -14,13 +14,14 @@ With 8+ years of experience in backend development,transforming legacy systems i
 
 ### 🛠️ Tech Stack
 ```
-Languages:     Java (primary), JavaScript, C#, Go
-Frameworks:    Spring Boot, Spring Modulith, Angular
-Cloud & Ops:   Kubernetes, Azure, Jenkins, GitOps
-AI & ML:       Spring AI, OpenAI GPT, Vector Databases, RAG
+Languages:     Java (primary), JavaScript, C#
+Frameworks:    Spring Boot, Spring Modulith, Java EE, Vaadin, Angular
+Cloud & Ops:   Kubernetes, Azure, Jenkins, GitOps (Flux), Helm
+Databases:     PostgreSQL, SQL Server, Oracle, Redis
+APIs & Auth:   OpenAPI, AsyncAPI, Keycloak (OAuth2)
 Messaging:     NATS, ActiveMQ
-Databases:     PostgreSQL, SQL Server, Oracle, PGVector
 Testing:       JUnit 5, Mockito, Testcontainers, k6
+Exploring:     Spring AI, Vector Databases, RAG
 ```
 
 ### 🎯 Current Focus
