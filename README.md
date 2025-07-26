@@ -12,13 +12,13 @@ Backend developer with expertise in Java, Spring Boot, and cloud-native architec
 
 ### 🛠️ Tech Stack
 ```
-Languages:     Java (primary), JavaScript, C#
-Frameworks:    Spring Boot, Spring Modulith, Java EE, Vaadin, Angular
-Cloud & Ops:   Kubernetes, Azure, Jenkins, GitOps (Flux), Helm
-Databases:     PostgreSQL, SQL Server, Oracle, Redis
-APIs & Auth:   OpenAPI, AsyncAPI, Keycloak (OAuth2)
-Messaging:     NATS, ActiveMQ
-Testing:       JUnit 5, Mockito, Testcontainers, k6
+Languages:             Java (primary), JavaScript, C#
+Frameworks:            Spring Boot, Spring Modulith, Java EE, Vaadin, Angular
+Cloud & Ops:           Kubernetes, Azure, Jenkins, GitOps (Flux), Helm
+Databases & Cache:     PostgreSQL, SQL Server, Oracle, Redis
+APIs & Auth:           OpenAPI, AsyncAPI, Keycloak (OAuth2)
+Messaging:             NATS, ActiveMQ
+Testing:               JUnit 5, Mockito, Testcontainers, k6
 ```
 
 ### 🎯 Currently Exploring
