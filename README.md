@@ -6,10 +6,6 @@ Backend developer with expertise in Java, Spring Boot, and cloud-native architec
 
 *After years of focusing on private enterprise work, I'm now building my public GitHub presence and contributing to open source. Better late than never! 🚀*
 
-### 🚀 Current Projects
-- **[Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp)** - Production-ready MCP server for Maven dependency management with AI assistants
-- **[Spring AI RAG Demo](https://github.com/arvindand/spring-ai-rag-demo)** - Learning project exploring RAG patterns with Spring AI
-
 ### 🛠️ Tech Stack
 ```
 Languages:             Java (primary), JavaScript, C#
